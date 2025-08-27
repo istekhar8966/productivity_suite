@@ -23,7 +23,7 @@ A comprehensive, terminal-based productivity suite built with Python and the `ri
 1.  **Clone the repository (or download the files):**
 
     ```bash
-    git clone <your-repo-url>
+    git clone [<your-repo-url>](https://github.com/istekhar8966/productivity_suite.git)
     cd productivity-suite
     ```
 
